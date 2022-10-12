@@ -1,4 +1,4 @@
-# Data_Mining_Resource
+# Data_Mining_Classification
 ## Synopsis
 Practical of Claasification
 ## Contents
