@@ -8,6 +8,22 @@ Practical of Claasification
 - main2.py - edited version of main.py
 - threshold.py - Loop for each threshold of correlation to run main2.py to get best accuracy
 ## Dependencies
-none
+- sqlite3
+- numpy 
+- pandas
+- seaborn
+- matplotlib
+- sklearn
+- statistics
+- time
 ## Version information
 12 Oct 2022 - last version of Practical of Claasification
+## How to run
+Find the best threshold
+```
+python3 threshold.py
+```
+Run the main program
+```
+python3 main.py
+```
